@@ -1,2 +1,2 @@
-# PowerShell
-Master PowerShell scripting in 100 days! 
+# Go Programming
+Master Go Programming in 100 days! 
